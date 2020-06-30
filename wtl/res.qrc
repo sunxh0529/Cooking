@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/arrive.ico</file>
+        <file>res/car.ico</file>
+        <file>res/exe.ico</file>
+        <file>res/pause.ico</file>
+        <file>res/plane.ico</file>
+        <file>res/train.ico</file>
+        <file>res/database.txt</file>
+    </qresource>
+    <qresource prefix="/sxh">
+        <file>res/background_music.wav</file>
+        <file>res/logo-1.png</file>
+        <file>res/map.png</file>
+        <file>res/pic-1.png</file>
+        <file>res/button.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+Beijing Shanghai 4817 16:30 07:30 0
+Beijing Shanghai CZ6412 06:25 08:40 2
+Beijing Xi'an Z19 20:41 08:15 1
+Beijing Xi'an HU7737 21:50 23:55 2
+Beijing Wuhan 3859 16:00 07:00 0
+Beijing Wuhan ZH1333 06:00 08:20 2
+Wuhan Xi'an JJ2111A 19:50 10:50 0
+Wuhan Xi'an CA8211 07:35 09:00 2
+Shenzhen Xi'an HU7784 06:50 09:25 2
+Shenzhen Xi'an 3U8438 10:50 13:25 2
+Wuhan Shenzhen HH0497A 11:00 07:00 0
+Wuhan Shenzhen ZH4951 09:00 10:55 2
+Shanghai Shenzhen 000829 14:30 03:30 0
+Shanghai Shenzhen 9C8917 06:30 08:55 2
+Haikou Shanghai CZ3515 08:20 11:05 2
+Haikou Shanghai MU9270 14:30 18:45 2
